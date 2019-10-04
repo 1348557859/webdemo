@@ -18,12 +18,14 @@ public class DemoServlet extends HttpServlet {
         System.out.println("test for git2");
         System.out.println("test for git2");
         System.out.println("test for webdemo2...");
+        System.out.println("test for git update by dev 01");
 
     }
 
     public void test(){
         int i=0;
         i++;
+        System.out.println("dev......");
     }
 
 }
