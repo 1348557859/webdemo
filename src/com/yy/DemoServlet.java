@@ -15,6 +15,7 @@ public class DemoServlet extends HttpServlet {
         System.out.println("---------------------");
         req.getRequestDispatcher("/WEB-INF/hello.jsp").forward(req, resp);
         System.out.println("test for git");
+        System.out.println("test for git2");
 
     }
 
